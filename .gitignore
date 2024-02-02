@@ -5,3 +5,11 @@ settings.ini
 CMakeSettings.json
 out/
 .vs/
+
+# Directories
+.vs/
+bin/
+bin-int/
+
+# Files
+*.user
